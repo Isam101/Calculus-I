@@ -1,0 +1,16 @@
+📘 Limits & Continuity — Summary (GitHub Version)
+
+Limits describe what value a function approaches as the input gets close to a certain number. Formally:
+
+lim ⁡𝑥→𝑎
+𝑓(𝑥)=𝐿 
+
+
+This means as x approaches a, the output of f(x) approaches L.
+Important notes:
+
+a does not need to be in the domain of the function
+
+The function does not need to equal the limit, only approach it
+
+Example: piecewise functions can have different behaviors on each interval — the limit depends on the values approached from both sides.
