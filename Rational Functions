@@ -1,0 +1,11 @@
+✅ Rational Functions – Limits of the form 0/0
+
+When you plug in the limit value and get 0/0, it means the function is indeterminate and can usually be simplified.
+
+Steps to solve 0/0 rational limits
+
+1) Factor the numerator
+2) Factor the denominator
+3) Identify the problematic factor — the one that becomes zero at the limit value
+4) Cancel that factor
+5) Evaluate the limit again
